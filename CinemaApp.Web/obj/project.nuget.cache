@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0ql9i5/8pgd5SipnFgv1ouKaIT5irjD4FKZbzwK2ltcjRc0AFuf1h3EcArFGjMRPDMF0S7jfePzkGX2zKNIyIQ==",
+  "dgSpecHash": "yU41QdvK19a9yWVeuJktxVtNc0VKqHaxhNUHaO7V/S3rYxJfWdnlfBrVrjv6qj2JDF8ofPr7piaa8PVEa8662g==",
   "success": true,
   "projectFilePath": "D:\\Programming\\C#Web_2024\\CinemaApp_WebProject\\CSharpWeb_CinemaApp\\CinemaApp.Web\\CinemaApp.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Guido\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Guido\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Guido\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Guido\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -1630,6 +1646,19 @@
           "bin/placeholder/CinemaApp.Data.Models.dll": {}
         }
       },
+      "CinemaApp.Services.Mapping/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AutoMapper": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CinemaApp.Services.Mapping.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CinemaApp.Services.Mapping.dll": {}
+        }
+      },
       "CinemaApp.Web.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1661,6 +1690,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -4361,6 +4405,11 @@
       "path": "../CinemaApp.Data.Models/CinemaApp.Data.Models.csproj",
       "msbuildProject": "../CinemaApp.Data.Models/CinemaApp.Data.Models.csproj"
     },
+    "CinemaApp.Services.Mapping/1.0.0": {
+      "type": "project",
+      "path": "../CinemaApp.Services.Mapping/CinemaApp.Services.Mapping.csproj",
+      "msbuildProject": "../CinemaApp.Services.Mapping/CinemaApp.Services.Mapping.csproj"
+    },
     "CinemaApp.Web.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../CinemaApp.Web.Infrastructure/CinemaApp.Web.Infrastructure.csproj",
@@ -4376,6 +4425,7 @@
     "net8.0": [
       "CinemaApp.Common >= 1.0.0",
       "CinemaApp.Data >= 1.0.0",
+      "CinemaApp.Services.Mapping >= 1.0.0",
       "CinemaApp.Web.Infrastructure >= 1.0.0",
       "CinemaApp.Web.ViewModels >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
@@ -4420,6 +4470,9 @@
             },
             "D:\\Programming\\C#Web_2024\\CinemaApp_WebProject\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj": {
               "projectPath": "D:\\Programming\\C#Web_2024\\CinemaApp_WebProject\\CSharpWeb_CinemaApp\\CinemaApp.Data\\CinemaApp.Data.csproj"
+            },
+            "D:\\Programming\\C#Web_2024\\CinemaApp_WebProject\\CSharpWeb_CinemaApp\\CinemaApp.Services.Mapping\\CinemaApp.Services.Mapping.csproj": {
+              "projectPath": "D:\\Programming\\C#Web_2024\\CinemaApp_WebProject\\CSharpWeb_CinemaApp\\CinemaApp.Services.Mapping\\CinemaApp.Services.Mapping.csproj"
             },
             "D:\\Programming\\C#Web_2024\\CinemaApp_WebProject\\CSharpWeb_CinemaApp\\CinemaApp.Web.Infrastructure\\CinemaApp.Web.Infrastructure.csproj": {
               "projectPath": "D:\\Programming\\C#Web_2024\\CinemaApp_WebProject\\CSharpWeb_CinemaApp\\CinemaApp.Web.Infrastructure\\CinemaApp.Web.Infrastructure.csproj"

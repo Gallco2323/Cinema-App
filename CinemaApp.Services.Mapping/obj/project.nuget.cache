@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9G9wC18JHfqFpLQhLAYnl1yRVNrQEgbMcnCWfq54MhON1srpL/ue1az1g9HmjWf7iT/tsjP64+O0z788TMkMAw==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#Web_2024\\CinemaApp_WebProject\\CSharpWeb_CinemaApp\\CinemaApp.Services.Mapping\\CinemaApp.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guido\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Guido\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Guido\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Guido\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Guido\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
