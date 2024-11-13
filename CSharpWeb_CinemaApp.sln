@@ -19,6 +19,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaApp.Data", "CinemaApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaApp.Web.Infrastructure", "CinemaApp.Web.Infrastructure\CinemaApp.Web.Infrastructure.csproj", "{494306BC-F099-4EE2-9DCE-B21AC7572D9C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{DA65E519-5B3A-4929-B182-AF6219E6FE05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaApp.Services.Data", "CinemaApp.Services.Data\CinemaApp.Services.Data.csproj", "{FE4797A5-5740-4AAF-8769-8FC2EAC6FE16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaApp.Services.Mapping", "CinemaApp.Services.Mapping\CinemaApp.Services.Mapping.csproj", "{F2501C4F-33BD-454A-816D-3EF063D1C3CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +55,14 @@ Global
 		{494306BC-F099-4EE2-9DCE-B21AC7572D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{494306BC-F099-4EE2-9DCE-B21AC7572D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{494306BC-F099-4EE2-9DCE-B21AC7572D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4797A5-5740-4AAF-8769-8FC2EAC6FE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4797A5-5740-4AAF-8769-8FC2EAC6FE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4797A5-5740-4AAF-8769-8FC2EAC6FE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4797A5-5740-4AAF-8769-8FC2EAC6FE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2501C4F-33BD-454A-816D-3EF063D1C3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2501C4F-33BD-454A-816D-3EF063D1C3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2501C4F-33BD-454A-816D-3EF063D1C3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2501C4F-33BD-454A-816D-3EF063D1C3CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +73,8 @@ Global
 		{848057EA-9764-4591-87F3-B2EC0D872252} = {AAF01289-CFB4-454A-91F3-F08CF5A04664}
 		{5EE20F6E-8515-4611-B9C0-23AB88A4AB9F} = {AAF01289-CFB4-454A-91F3-F08CF5A04664}
 		{494306BC-F099-4EE2-9DCE-B21AC7572D9C} = {F749285E-904D-44DD-AA9F-6CBD0FC61B6C}
+		{FE4797A5-5740-4AAF-8769-8FC2EAC6FE16} = {DA65E519-5B3A-4929-B182-AF6219E6FE05}
+		{F2501C4F-33BD-454A-816D-3EF063D1C3CB} = {DA65E519-5B3A-4929-B182-AF6219E6FE05}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D57BA822-780E-4361-BCB6-E65464171695}

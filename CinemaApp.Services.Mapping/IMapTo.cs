@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CinemaApp.Services.Mapping
 {
-    internal class IMapTo
+    public interface IMapTo<T>
     {
     }
 }

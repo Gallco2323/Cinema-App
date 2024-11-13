@@ -2,6 +2,8 @@ using CinemaApp.Data;
 using Microsoft.EntityFrameworkCore;
 
 using static CinemaApp.Web.Infrastructure.Extensions.ApplicationBuilderExtensions;
+using CinemaApp.Services.Mapping;
+using CinemaApp.Web.ViewModels;
 public class Program
 {
         public static void Main(string[] args)
@@ -20,6 +22,8 @@ public class Program
        
         
             var app = builder.Build();
+          
+        AutoMapperConfig.RegisterMappings(typeof(ErrorViewModel).Assembly);
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
