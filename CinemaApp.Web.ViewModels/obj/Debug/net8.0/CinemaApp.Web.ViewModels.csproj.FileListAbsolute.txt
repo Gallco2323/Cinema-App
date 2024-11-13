@@ -1,0 +1,15 @@
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.deps.json
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.dll
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Web.ViewModels.pdb
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.AssemblyInfoInputs.cache
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.AssemblyInfo.cs
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.dll
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\refint\CinemaApp.Web.ViewModels.dll
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.pdb
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\ref\CinemaApp.Web.ViewModels.dll
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Common.dll
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\bin\Debug\net8.0\CinemaApp.Common.pdb
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.AssemblyReference.cache
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Web.ViewModels\obj\Debug\net8.0\CinemaApp.Web.ViewModels.csproj.CopyComplete
