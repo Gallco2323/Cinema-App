@@ -1,2 +1,0 @@
-# CSharpWeb_CinemaApp
- 
