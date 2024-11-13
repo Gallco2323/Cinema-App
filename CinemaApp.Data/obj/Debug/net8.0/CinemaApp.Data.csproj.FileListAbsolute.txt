@@ -11,6 +11,7 @@ D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Dat
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data\obj\Debug\net8.0\CinemaApp.Data.AssemblyInfoInputs.cache
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data\obj\Debug\net8.0\CinemaApp.Data.AssemblyInfo.cs
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data\obj\Debug\net8.0\CinemaApp.Data.csproj.CoreCompileInputs.cache
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data\obj\Debug\net8.0\CinemaApp.Data.sourcelink.json
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data\obj\Debug\net8.0\CinemaApp.Data.csproj.CopyComplete
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data\obj\Debug\net8.0\CinemaApp.Data.dll
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data\obj\Debug\net8.0\refint\CinemaApp.Data.dll

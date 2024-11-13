@@ -5,6 +5,7 @@ D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Dat
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.AssemblyInfoInputs.cache
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.AssemblyInfo.cs
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.csproj.CoreCompileInputs.cache
+D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.sourcelink.json
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.dll
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data.Models\obj\Debug\net8.0\refint\CinemaApp.Data.Models.dll
 D:\Programming\C#Web_2024\CinemaApp_WebProject\CSharpWeb_CinemaApp\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.pdb
